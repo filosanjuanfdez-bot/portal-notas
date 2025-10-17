@@ -1,0 +1,14 @@
+{
+  "classes": [
+    {
+      "id": "filosofia1",
+      "name": "Filosofía 1º",
+      "file": "filosofia1.json"
+    },
+    {
+      "id": "filosofia2",
+      "name": "Filosofía 2º",
+      "file": "filosofia2.json"
+    }
+  ]
+}

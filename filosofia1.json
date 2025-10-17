@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "passwordHash": "b963c40a74d4394ec746188f800b0a25e71ae5dfafa790059a26203d99ea4e2b",
+      "name": "Estudiante A",
+      "grades": {
+        "Trabajo final": 90,
+        "Examen de mitad de curso": 85,
+        "Participación": 95
+      }
+    },
+    {
+      "passwordHash": "1e54d39db2e392723cfb0c37a2ed4f9ad354a5650916e8ec7be6a789c97bf99d",
+      "name": "Estudiante B",
+      "grades": {
+        "Trabajo final": 76,
+        "Examen de mitad de curso": 82,
+        "Participación": 80
+      }
+    }
+  ]
+}
