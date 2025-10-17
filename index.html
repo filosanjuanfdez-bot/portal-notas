@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Consulta de notas</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>Consulta de notas</h1>
+      <p class="description">
+        Selecciona tu clase, introduce tu contraseña individual y consulta tus
+        calificaciones.
+      </p>
+      <form id="loginForm">
+        <label for="classSelect">Clase:</label>
+        <select id="classSelect" required>
+          <option value="" disabled selected>Selecciona tu clase…</option>
+          <!-- Las clases se cargarán dinámicamente -->
+        </select>
+
+        <label for="passwordInput">Contraseña:</label>
+        <input
+          type="password"
+          id="passwordInput"
+          placeholder="Introduce tu contraseña"
+          required
+        />
+        <button type="submit">Ver notas</button>
+      </form>
+      <div id="result" class="result"></div>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
