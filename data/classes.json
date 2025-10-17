@@ -1,12 +1,12 @@
 {
   "classes": [
     {
-      "id": "filosofia 1ACTE",
-      "name": "Filosofía 1º",
+      "id": "filosofia 1",
+      "name": "Filosofía 1º ACTE",
       "file": "filosofia1.json"
     },
     {
-      "id": "filosofia 1 BCTEG",
+      "id": "filosofia 2",
       "name": "Filosofía 2º",
       "file": "filosofia2.json"
     }
