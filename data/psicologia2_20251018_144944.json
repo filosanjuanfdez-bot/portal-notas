@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "passwordHash": "8deee6e3511553cd4f0d6817510a467bb43eab3e9140b2c395d3135a7e44a288",
+      "name": "Gándara Gutiérrez, Claudia",
+      "grades": {}
+    },
+    {
+      "passwordHash": "156f9440ef198975ac644b38486297aa67f31f733f0343bdc48c6d49abf80348",
+      "name": "González Ricondo, Paola",
+      "grades": {}
+    },
+    {
+      "passwordHash": "e4a8fd7036ca4e6dbcdf3bd516248d58f75f5ea2face1372ea619b0ed13ad097",
+      "name": "Guillén Fernández, Víctor Eduardo",
+      "grades": {}
+    },
+    {
+      "passwordHash": "f3dc83bf21ee4c150936a8fe714c35f6bf4baab6a6e14283f2260d3ff900b673",
+      "name": "Corbella Abascal, Alba",
+      "grades": {}
+    },
+    {
+      "passwordHash": "38b337459c8df10f24b8938c69182afc50a71c5d56d1301c504120364efce3a3",
+      "name": "Gómez Quirós, Alba",
+      "grades": {}
+    },
+    {
+      "passwordHash": "26f8014b58f9875f0ff7d15761e8d1bac152d0112319eb2e138a579fa90e6a2f",
+      "name": "Herrero Paz, Lucía",
+      "grades": {}
+    },
+    {
+      "passwordHash": "c371669fe12050a8e34e473d5cd405e879d20dc2605ab822435243de7e707f7d",
+      "name": "Palencia Gómez, Rebeca",
+      "grades": {}
+    },
+    {
+      "passwordHash": "8b8788a7e6e5ef76112e85554d90660d5d7c46c782354bd82d3ee6b6d96a3819",
+      "name": "Rodríguez Fernández, Erika",
+      "grades": {}
+    },
+    {
+      "passwordHash": "b2fd029099a0605f9411a84cbfe28a909ea98e77eb4a1efad66dc1dcd8a52e64",
+      "name": "Secada Praia, Marta",
+      "grades": {}
+    },
+    {
+      "passwordHash": "c42c5acb5cec357294941889b672f08ddcc0b525e3f4fc675ad1c9b2fb68cccb",
+      "name": "Vilches Lastra, Candela",
+      "grades": {}
+    }
+  ]
+}
