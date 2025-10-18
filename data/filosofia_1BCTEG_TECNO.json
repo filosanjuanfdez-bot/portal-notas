@@ -1,1 +1,85 @@
+{
+  "students": [
+    {
+      "passwordHash": "6953365fe640b16dfdde3ebea3cc7a631a68950e9186d8b3d31f8b2c8d17682d",
+      "name": "Alonso González, Fernando",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "99174feaf5b5e8dab13dc2a669eec86cf578dd74460f8624a5165693c14ef95b",
+      "name": "Álvarez González, Martín",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "34a9332a7e398d4375962a0ee0a64a01b48c63d82fde6f8070cdb76898fb6a38",
+      "name": "Celada Pérez, Adriana",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "db748714ef1aaec0ba64c3b0df14c19864a0527dedc4e58137fa59cbf07caa57",
+      "name": "Cervera De la Maza, Adrián",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "d1afcf27b6ddedff6c9592d11991e95a1d50aa0a9801385ae0e6c9d8bb7d0cf7",
+      "name": "de la Iglesia Salvador, Rodrigo",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "981264a1a1110d92d6ed1047276dba8b295d792d246fe073b56b58ea5cfdb45c",
+      "name": "García Ruiz, Hugo",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "421072cdd8db7011e35d1b3d2d13a7d2910e0944b2e7f278bfcd0aeddfb91661",
+      "name": "Gómez Gollarza, Isabella Valentina",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "b16f7b22681dc79aa0f397d944bbf21efefbddc3c95a84d57d8f4512a952363b",
+      "name": "Haro Fernández, Vera",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "422e0775b63dcb72a9b92f1752dcdaacfd5835df7d85f924bc4d0290e6f25292",
+      "name": "Hernández Martínez, Sandra",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "901fa0830a21442fa23a80f7efb1fd9324b6ffee439f410e5c1d13e90d3d7bcb",
+      "name": "Miguélez Salazar, Marta",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "f1862f8ddc34ca41a5fb062d7eef1800cd6bde8a578b0e746abdc3a2ef4a9acf",
+      "name": "Raba Ramos, Candela",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "34993b478545338b120f71e957db32bb01bbe6472ed75e19b1d01fc8cefda36d",
+      "name": "Rodríguez Hernández, Bruno",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "e7ddf498bec077d4abd10fb59b84957fe76a2c8152ee6bfb890221fd1a589e5b",
+      "name": "Romero Cajigas, Mario",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "4d42ac54bb935bac39ef2a9e0c49d3dbab43ed76b1adffb68a1e9762aa536cbb",
+      "name": "Roqueñi Hernández, Ismael",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "9061013152d6c8358bafa1175d99523a5ed7d61b54f2f1eed3dc52906b001250",
+      "name": "Toribio Arce, Eduardo",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "bd339718f45ea429df2e4aa241063402c15738e6d7ad02d8839ea86243a8796b",
+      "name": "Tuya Folgueiras, Rubén",
+      "grades": { "CONTROL VIERNES 17": null }
+    }
+  ]
+}
 
