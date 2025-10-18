@@ -1,1 +1,55 @@
+{
+  "students": [
+    {
+      "passwordHash": "3b6f3c6a8a21c5f28e5d1d36cf9c2ef919ff1b0df8b5d1d3a0f83a31273c4a58",
+      "name": "Alonso García, Claudia",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "6da4a7b652c8d6e0e0e04c3921b2a86e9f5b7b29a4e2f0d0df2b904da26f2f03",
+      "name": "Barrio Valsera, Ana",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "1d07f88648adac99bc9d8f24efa3a090a2ef9a9a250cf378f06cc41a09faef7c",
+      "name": "Campo Herrero, Alejandro del",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "4a43fdf82a7c298fbd432df6c00a0e321d2b114a2db689403bcdf004a7eec47a",
+      "name": "De la Fuente Arnaiz, Martín",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "6cdf0e4a99695f4c7736a6e0b75b236f4450b137e810b90fba98c7da069f75f9",
+      "name": "Fernández Sedano, Daniela",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "a04380ad8e6f77eab84f38c96fb3a0e469e13d760a25178574e406b8889cc25b",
+      "name": "Gómez Pacheco, Nekane",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "98fd2a0f718ea70b203f8b804e418baa2c87a89f60933d6bd45c372553f1c8a5",
+      "name": "Orús Revilla, Mateo",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "1f2bbd5aa5d6087de6c721c39cf35ef6c411fe6146a65e27f2f1fe5db8d5937e",
+      "name": "Ramos Nole, Ronald Antonio",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "b0fda2d5c93c3e4b64c81aeb0c4c2a6b699cc871d4a9749a25b9bce9aa7d9ad5",
+      "name": "Ruiz Sobrino, Martina",
+      "grades": { "CONTROL VIERNES 17": null }
+    },
+    {
+      "passwordHash": "a2d9b2e05d250fcfe0f6a1e8d36b8e6a04a2f7d66dc7084a83af0b7a3d44d6e4",
+      "name": "Ugalde Muguruza, Enaitz",
+      "grades": { "CONTROL VIERNES 17": null }
+    }
+  ]
+}
 
