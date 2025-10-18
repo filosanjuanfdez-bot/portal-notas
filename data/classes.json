@@ -14,6 +14,26 @@
       "id": "psicologia 2",
       "name": "Psicología 2º",
       "file": "psicologia2.json"
+    },
+    {
+      "id": "filo 1 bcteg tecno",
+      "name": "Filosofía 1º BCTEG TECNO",
+      "file": "filosofia_1BCTEG_TECNO.json"
+    },
+    {
+      "id": "filo 1 bcteg gen",
+      "name": "Filosofía 1º BCTEG GEN",
+      "file": "filosofia_1BCTEG_GEN.json"
+    },
+    {
+      "id": "filo 1 ccteh tecno",
+      "name": "Filosofía 1º CCTEH TECNO",
+      "file": "filosofia_1CCTEH_TECNO.json"
+    },
+    {
+      "id": "filo 1 ccteh hcs",
+      "name": "Filosofía 1º CCTEH HCS",
+      "file": "filosofia_1CCTEH_HCS.json"
     }
   ]
 }
