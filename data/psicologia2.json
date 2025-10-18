@@ -1,4 +1,3 @@
-
 {
   "students": [
     {
@@ -16,38 +15,38 @@
       }
     },
     {
-      "passwordHash": "d7b04d5e7f1a3f68639b227dfd3c6a63b8a03c569b8b8b2e2f3e6b0c38f0b0c9",
+      "passwordHash": "e4a8fd7036ca4e6dbcdf3bd516248d58f75f5ea2face1372ea619b0ed13ad097",
       "name": "Guillén Fernández, Víctor Eduardo",
       "grades": {
         "EXAM TEMA 1": 6.25
       }
     },
     {
-      "passwordHash": "d4a7d80c6d115c9a06d47b812e9f5f7d9f07a4c0c3a1d9f7f6a5b4c3d2e1f0a9",
+      "passwordHash": "f3dc83bf21ee4c150936a8fe714c35f6bf4baab6a6e14283f2260d3ff900b673",
       "name": "Corbella Abascal, Alba",
       "grades": {}
     },
     {
-      "passwordHash": "5c6a7f8b9d0e1f2a3b4c5d6e7f8091a2b3c4d5e6f7081920a1b2c3d4e5f6a7b8",
+      "passwordHash": "38b337459c8df10f24b8938c69182afc50a71c5d56d1301c504120364efce3a3",
       "name": "Gómez Quirós, Alba",
       "grades": {
         "EXAM TEMA 1": 4.95
       }
     },
     {
-      "passwordHash": "7e8f9a0b1c2d3e4f5061728394a5b6c7d8e9f0a1b2c3d4e5f60718293a4b5c6d",
+      "passwordHash": "26f8014b58f9875f0ff7d15761e8d1bac152d0112319eb2e138a579fa90e6a2f",
       "name": "Herrero Paz, Lucía",
       "grades": {}
     },
     {
-      "passwordHash": "b04c7d9e1f2a3b4c5d6e7f8091a2b3c4d5e6f7081920a1b2c3d4e5f6a7b8c9d0",
+      "passwordHash": "c371669fe12050a8e34e473d5cd405e879d20dc2605ab822435243de7e707f7d",
       "name": "Palencia Gómez, Rebeca",
       "grades": {
         "EXAM TEMA 1": 7.7
       }
     },
     {
-      "passwordHash": "2f3e4d5c6b7a8d9c0e1f2a3b4c5d6e7f8091a2b3c4d5e6f7081920a1b2c3d4e5",
+      "passwordHash": "8b8788a7e6e5ef76112e85554d90660d5d7c46c782354bd82d3ee6b6d96a3819",
       "name": "Rodríguez Fernández, Erika",
       "grades": {
         "EXAM TEMA 1": 5.4
