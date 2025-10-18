@@ -19,7 +19,7 @@ async function calcularHash(texto) {
  * Carga la lista de clases desde data/classes.json
  */
 function cargarClases() {
-  fetch('data/classes.json')
+  fetch(`data/classes.json?v=${Date.now()}`, { cache: "no-store" })
     .then((res) => {
       if (!res.ok) throw new Error('No se pudo cargar el listado de clases');
       return res.json();
@@ -67,7 +67,7 @@ async function procesarFormulario(event) {
   }
 
   // Carga el archivo de la clase
-  fetch('data/' + claseArchivo)
+  fetch(`data/${claseArchivo}?v=${Date.now()}`, { cache: "no-store" })
     .then((res) => {
       if (!res.ok) throw new Error('No se pudo cargar el archivo de la clase');
       return res.json();
