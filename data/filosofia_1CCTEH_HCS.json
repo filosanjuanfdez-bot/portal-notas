@@ -1,1 +1,54 @@
+{
+  "students": [
+    {
+      "passwordHash": "5a96b212ecf94dfd706f565dcf3d7439cfbb7806183143bb7f0383d02ee38209",
+      "name": "Escalada Cimiano, Alba",
+      "grades": {
+        "CONTROL VIERNES 17": null
+      }
+    },
+    {
+      "passwordHash": "0d322924ac06b02d1028b148565d16cb6b6645e4c5a7083e0763ddb49551eacf",
+      "name": "Herrera, Alma Maylen Melody",
+      "grades": {
+        "CONTROL VIERNES 17": null
+      }
+    },
+    {
+      "passwordHash": "fd2043044f7f6ac440526a42633d9f87249bab7184ebd118cceaeafc99291529",
+      "name": "Maté García, Álvaro",
+      "grades": {
+        "CONTROL VIERNES 17": null
+      }
+    },
+    {
+      "passwordHash": "0d502eb2bbfc52653e69b24931b7f94c449d642937ee44897388205804880575",
+      "name": "Mora Kornausenko, Ángela",
+      "grades": {
+        "CONTROL VIERNES 17": null
+      }
+    },
+    {
+      "passwordHash": "d8f0a45b4ba8fd32197c2ed70d9bf50a0fd5bb573b75ee89daa74cdf24c32554",
+      "name": "Rodríguez Agudo, Hugo",
+      "grades": {
+        "CONTROL VIERNES 17": null
+      }
+    },
+    {
+      "passwordHash": "c529ce32c50ce2a1550096d363213c921317445e591fbb8ff932239c196843c3",
+      "name": "Vicente López, Iván",
+      "grades": {
+        "CONTROL VIERNES 17": null
+      }
+    },
+    {
+      "passwordHash": "df1ea317727f272daef5cd5a87adc3186257568b85b0a949a59a1fe3ff0cd9a2",
+      "name": "Villegas García, Isabel Sofía",
+      "grades": {
+        "CONTROL VIERNES 17": null
+      }
+    }
+  ]
+}
 
