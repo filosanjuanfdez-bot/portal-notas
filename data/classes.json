@@ -9,6 +9,11 @@
       "id": "filosofia 2",
       "name": "Filosofía 2º",
       "file": "filosofia2.json"
+    },
+    {
+      "id": "psicologia 2",
+      "name": "Psicología 2º",
+      "file": "psicologia2.json"
     }
   ]
 }
