@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Portal de notas · Filosofía</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div style="display:flex;justify-content:space-between;align-items:center">
+      <div>
+        <h1>Portal de notas · Filosofía</h1>
+        <h2>Consulta por contraseña (solo verás tu registro)</h2>
+      </div>
+      <div><span class="badge">Acceso alumnado</span></div>
+    </div>
+
+    <div class="notice" style="margin-top:12px">
+      Introduce tu <b>grupo</b>, <b>nombre</b> y tu <b>contraseña</b>. Solo se mostrarán tus exámenes y la media.
+    </div>
+
+    <div style="margin-top:12px">
+      <label>Grupo</label>
+      <input id="grupo" placeholder="Ej.: 1º BCTEG GEN">
+      <label style="margin-top:8px">Alumno (Nombre y apellidos)</label>
+      <input id="alumno" placeholder="Apellido, Nombre">
+      <label style="margin-top:8px">Contraseña</label>
+      <input id="password" placeholder="••••••••" type="password">
+      <div style="margin-top:12px"><button id="buscar">Ver mis notas</button></div>
+    </div>
+
+    <div id="resultado" class="hidden">
+      <hr>
+      <h2>Tus notas</h2>
+      <table class="table" id="tablaNotas">
+        <thead><tr><th>Examen</th><th>Nota</th><th>Comentario</th></tr></thead>
+        <tbody id="notasBody"></tbody>
+      </table>
+      <p class="small"><b>Media:</b> <span id="media">-</span></p>
+      <p class="small">Si detectas un error, comunícalo al profesor. La revisión se hará en clase.</p>
+    </div>
+
+    <div id="noencontrado" class="hidden">
+      <hr>
+      <p class="notice">No se ha encontrado tu registro. Revisa que el grupo, el nombre y la contraseña coincidan exactamente.</p>
+    </div>
+
+  </div>
+<script>
+async function cargarGrades(){
+  const res = await fetch('grades.json', {cache:'no-store'});
+  return res.ok?res.json():[];
+}
+document.getElementById('buscar').addEventListener('click', async ()=>{
+  const grupo = document.getElementById('grupo').value.trim();
+  const alumno = document.getElementById('alumno').value.trim();
+  const password = document.getElementById('password').value.trim();
+  const resultado = document.getElementById('resultado');
+  const no = document.getElementById('noencontrado');
+  let data = [];
+  try{ data = await cargarGrades(); }catch(e){ alert('Error cargando datos'); return; }
+  const match = data.find(r=> r.grupo===grupo && r.alumno===alumno && r.password===password);
+  if(match){
+    const tbody = document.getElementById('notasBody');
+    tbody.innerHTML = '';
+    const exams = match.exams || {};
+    const names = Object.keys(exams);
+    if(names.length===0){
+      tbody.innerHTML = '<tr><td colspan="3">Aún no hay exámenes registrados.</td></tr>';
+      document.getElementById('media').innerText = '-';
+    }else{
+      let suma=0, cont=0;
+      for(const n of names){
+        const obj = exams[n] || {grade:'', comment:''};
+        const grade = obj.grade??'';
+        const comment = obj.comment??'';
+        tbody.innerHTML += `<tr><td>${n}</td><td>${grade}</td><td>${comment}</td></tr>`;
+        const g = parseFloat((''+grade).replace(',','.'));
+        if(!isNaN(g)){ suma += g; cont++; }
+      }
+      document.getElementById('media').innerText = cont? ((suma/cont).toFixed(2).replace('.',',')) : '-';
+    }
+    resultado.classList.remove('hidden'); no.classList.add('hidden');
+  }else{
+    resultado.classList.add('hidden'); no.classList.remove('hidden');
+  }
+});
+</script>
+</body>
+</html>
