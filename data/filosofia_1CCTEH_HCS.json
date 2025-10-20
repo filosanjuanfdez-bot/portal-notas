@@ -1,45 +1,38 @@
 {
   "students": [
     {
+      "passwordHash": "29719c1a9b890a3ce8fe5b0450bab2c9386410733b0bcaee3fa7436c0d6581cf",
       "name": "Escalada Cimiano, Alba",
-      "pass": "zwrjg1dz",
-      "passHash": "29719c1a9b890a3ce8fe5b0450bab2c9386410733b0bcaee3fa7436c0d6581cf",
       "grades": { "CONTROL VIERNES 17": 3.5 }
     },
     {
+      "passwordHash": "19670fdd7271f6b0c9b0f14ef97597de231f1d4bc19da0de35c9fd6b04c9441b",
       "name": "Herrera, Alma Maylen Melody",
-      "pass": "q69sprae",
-      "passHash": "19670fdd7271f6b0c9b0f14ef97597de231f1d4bc19da0de35c9fd6b04c9441b",
       "grades": { "CONTROL VIERNES 17": 2 }
     },
     {
+      "passwordHash": "679b9de413cd47393764eb1e25fd9d73e38022db863a547d1bc916760c933cce",
       "name": "Maté García, Álvaro",
-      "pass": "ptl4y7z3",
-      "passHash": "679b9de413cd47393764eb1e25fd9d73e38022db863a547d1bc916760c933cce",
       "grades": { "CONTROL VIERNES 17": 3.95 }
     },
     {
+      "passwordHash": "93f47789befbb5354283e9a08b00ac53fc9720ce20cbd8109f49a9aadac680c8",
       "name": "Mora Kornausenko, Ángela",
-      "pass": "9k3m2c5v",
-      "passHash": "93f47789befbb5354283e9a08b00ac53fc9720ce20cbd8109f49a9aadac680c8",
       "grades": { "CONTROL VIERNES 17": 5 }
     },
     {
+      "passwordHash": "fcabbc391c3d96f45d3cf7515039775526fabaea8ec8af778432b410d5afff06",
       "name": "Rodríguez Agudo, Hugo",
-      "pass": "8n2b4r1s",
-      "passHash": "fcabbc391c3d96f45d3cf7515039775526fabaea8ec8af778432b410d5afff06",
       "grades": { "CONTROL VIERNES 17": 1.75 }
     },
     {
+      "passwordHash": "b41911a5a8c20fdd5a2db198be3fbedd7b04bfbc868a4cc4cdb0bf4bf240ae5d",
       "name": "Vicente López, Iván",
-      "pass": "4t7g9h2k",
-      "passHash": "b41911a5a8c20fdd5a2db198be3fbedd7b04bfbc868a4cc4cdb0bf4bf240ae5d",
       "grades": { "CONTROL VIERNES 17": 3.25 }
     },
     {
+      "passwordHash": "7516848c7759a0aa8e9ad88fecf798e4f55d80d515537423a5c8cbcbd26c7f59",
       "name": "Villegas García, Isabel Sofía",
-      "pass": "5p2n8z6q",
-      "passHash": "7516848c7759a0aa8e9ad88fecf798e4f55d80d515537423a5c8cbcbd26c7f59",
       "grades": { "CONTROL VIERNES 17": 3 }
     }
   ]
