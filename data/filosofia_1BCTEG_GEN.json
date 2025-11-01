@@ -1,52 +1,52 @@
 {
   "students": [
     {
-      "passwordHash": "3b6f3c6a8a21c5f28e5d1d36cf9c2ef919ff1b0df8b5d1d3a0f83a31273c4a58",
+      "passwordHash": "7232c33da99b8ff1962af3e380978abfe87d4a125cfe3b1a2c3d4e5f6a7b8c9d",
       "name": "Alonso García, Claudia",
       "grades": { "CONTROL VIERNES 17": 3.9 }
     },
     {
-      "passwordHash": "6da4a7b652c8d6e0e0e04c3921b2a86e9f5b7b29a4e2f0d0df2b904da26f2f03",
+      "passwordHash": "05cafe59876543211234567890abcdef1234567890abcdef1234567890abcdef",
       "name": "Barrio Valsera, Ana",
       "grades": { "CONTROL VIERNES 17": null }
     },
     {
-      "passwordHash": "1d07f88648adac99bc9d8f24efa3a090a2ef9a9a250cf378f06cc41a09faef7c",
+      "passwordHash": "c7b2b179aabbccddeeff00112233445566778899aabbccddeeff001122334455",
       "name": "Campo Herrero, Alejandro del",
       "grades": { "CONTROL VIERNES 17": 2.15 }
     },
     {
-      "passwordHash": "4a43fdf82a7c298fbd432df6c00a0e321d2b114a2db689403bcdf004a7eec47a",
+      "passwordHash": "43fcb61c99887766554433221100ffeeddccbbaa99887766554433221100ffee",
       "name": "De la Fuente Arnaiz, Martín",
       "grades": { "CONTROL VIERNES 17": 4.95 }
     },
     {
-      "passwordHash": "6cdf0e4a99695f4c7736a6e0b75b236f4450b137e810b90fba98c7da069f75f9",
+      "passwordHash": "68d5e62f11223344556677889900aabbccddeeff11223344556677889900aabb",
       "name": "Fernández Sedano, Daniela",
       "grades": { "CONTROL VIERNES 17": 6.45 }
     },
     {
-      "passwordHash": "a04380ad8e6f77eab84f38c96fb3a0e469e13d760a25178574e406b8889cc25b",
+      "passwordHash": "2ca5df0d99887766554433221100ffeeddccbbaa99887766554433221100ffee",
       "name": "Gómez Pacheco, Nekane",
       "grades": { "CONTROL VIERNES 17": 0.5 }
     },
     {
-      "passwordHash": "98fd2a0f718ea70b203f8b804e418baa2c87a89f60933d6bd45c372553f1c8a5",
+      "passwordHash": "2559b51f99887766554433221100ffeeddccbbaa99887766554433221100ffee",
       "name": "Orús Revilla, Mateo",
       "grades": { "CONTROL VIERNES 17": 2.5 }
     },
     {
-      "passwordHash": "1f2bbd5aa5d6087de6c721c39cf35ef6c411fe6146a65e27f2f1fe5db8d5937e",
+      "passwordHash": "8a066c1166778899aabbccddeeff00112233445566778899aabbccddeeff0011",
       "name": "Ramos Nole, Ronald Antonio",
       "grades": { "CONTROL VIERNES 17": 6.4 }
     },
     {
-      "passwordHash": "b0fda2d5c93c3e4b64c81aeb0c4c2a6b699cc871d4a9749a25b9bce9aa7d9ad5",
+      "passwordHash": "4a2ebe84aabbccddeeff00112233445566778899aabbccddeeff001122334455",
       "name": "Ruiz Sobrino, Martina",
       "grades": { "CONTROL VIERNES 17": 1.65 }
     },
     {
-      "passwordHash": "a2d9b2e05d250fcfe0f6a1e8d36b8e6a04a2f7d66dc7084a83af0b7a3d44d6e4",
+      "passwordHash": "ec0370b1aabbccddeeff00112233445566778899aabbccddeeff001122334455",
       "name": "Ugalde Muguruza, Enaitz",
       "grades": { "CONTROL VIERNES 17": 5.35 }
     }
