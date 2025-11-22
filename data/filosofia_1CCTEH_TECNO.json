@@ -3,82 +3,130 @@
     {
       "passwordHash": "687a4c679eae7f6a4bce3c877526fc956d0d3c49730dbd026db9a70873fed289",
       "name": "Alonso García, Patricia",
-      "grades": { "CONTROL VIERNES 17": 8.2 }
+      "grades": {
+        "CONTROL VIERNES 17": 8.2,
+        "EXAMEN TEMA 1": 6.1
+      }
     },
     {
       "passwordHash": "cb7ef9a37e20cfa75c6514469366ba9c46c1086596a2d72a273e903445732e90",
       "name": "Baldor Ortiz, Claudia",
-      "grades": { "CONTROL VIERNES 17": 5.1 }
+      "grades": {
+        "CONTROL VIERNES 17": 5.1,
+        "EXAMEN TEMA 1": 9.3
+      }
     },
     {
       "passwordHash": "df740a9f36a1a47afe11c69554da8972f9c11302821bbf97202419a1a1bdc77a",
       "name": "Bravo Herrero, Mario",
-      "grades": { "CONTROL VIERNES 17": 4 }
+      "grades": {
+        "CONTROL VIERNES 17": 4,
+        "EXAMEN TEMA 1": 7.0
+      }
     },
     {
       "passwordHash": "20215145f1f3bab015aaa18dd13a7cd084ead87c46b64f892d914d5d77facfc1",
       "name": "Cortijo Pérez, Pablo",
-      "grades": { "CONTROL VIERNES 17": 6.5 }
+      "grades": {
+        "CONTROL VIERNES 17": 6.5,
+        "EXAMEN TEMA 1": 9.7
+      }
     },
     {
       "passwordHash": "91e3665e661225c3629bf3ddab774365580e61d915f7c9dcdbbef1b937a3d673",
       "name": "Díez Lukianova, Nicolás",
-      "grades": { "CONTROL VIERNES 17": 3.65 }
+      "grades": {
+        "CONTROL VIERNES 17": 3.65,
+        "EXAMEN TEMA 1": 3.2
+      }
     },
     {
       "passwordHash": "7f565237c5c3b8e409d16bbaf9c19489e2729ec3d6681ee914a0c910e5719ee9",
       "name": "Domínguez Bañuelos, Leire",
-      "grades": { "CONTROL VIERNES 17": 4 }
+      "grades": {
+        "CONTROL VIERNES 17": 4,
+        "EXAMEN TEMA 1": 8.5
+      }
     },
     {
       "passwordHash": "c201a00adf1cb35546f3a539c468afd8a542c6957bdbbfe3096022682fe18d47",
       "name": "Fernández Fernández, Iris",
-      "grades": { "CONTROL VIERNES 17": 7.15 }
+      "grades": {
+        "CONTROL VIERNES 17": 7.15,
+        "EXAMEN TEMA 1": 9.2
+      }
     },
     {
       "passwordHash": "151949a3cb488d19751fabcf8ef0175abbc72b2dcb6344d53193bd6c0d46061e",
       "name": "Fernández López, Aitana",
-      "grades": { "CONTROL VIERNES 17": 5 }
+      "grades": {
+        "CONTROL VIERNES 17": 5,
+        "EXAMEN TEMA 1": 7.1
+      }
     },
     {
       "passwordHash": "b95c73cce2fdc56a7df1be89131e018909fa60ab212fe0a3b594217732eb67e0",
       "name": "López Barrio, Raquel",
-      "grades": { "CONTROL VIERNES 17": 2.9 }
+      "grades": {
+        "CONTROL VIERNES 17": 2.9,
+        "EXAMEN TEMA 1": 5.3
+      }
     },
     {
       "passwordHash": "42068293e42be8e87058beb91999cfab3257c01df5e3d30ce5796dd1a8d59aa3",
       "name": "Martínez Cayón, Laro",
-      "grades": { "CONTROL VIERNES 17": 4 }
+      "grades": {
+        "CONTROL VIERNES 17": 4,
+        "EXAMEN TEMA 1": 3.15
+      }
     },
     {
       "passwordHash": "8fd8bc9fcbc6dbf308cff5a54e115d39396dfe307a37a3bd4ccacebf0e93b2c2",
       "name": "Mato Salmón, Lucas",
-      "grades": { "CONTROL VIERNES 17": 5.6 }
+      "grades": {
+        "CONTROL VIERNES 17": 5.6,
+        "EXAMEN TEMA 1": 5.7
+      }
     },
     {
       "passwordHash": "47a7c695cd7948f0a502abea163ad537b6238f591c8c1eaf47e144164f1418d8",
       "name": "Naval Bangova, Sofía",
-      "grades": { "CONTROL VIERNES 17": 5.8 }
+      "grades": {
+        "CONTROL VIERNES 17": 5.8,
+        "EXAMEN TEMA 1": 5.7
+      }
     },
     {
       "passwordHash": "7a6f8479063ece953db4feaa1aab17e4f3669cce894ef339517a257152bbff53",
       "name": "Navarro Ceruti, Carla",
-      "grades": { "CONTROL VIERNES 17": 7.35 }
+      "grades": {
+        "CONTROL VIERNES 17": 7.35,
+        "EXAMEN TEMA 1": 3.9
+      }
     },
     {
       "passwordHash": "a6ecc591850aa1d38dce4b43371ede20c1c7509c09686b29ecb695d438a87aa9",
       "name": "Ordóñez Martínez, Sergio",
-      "grades": { "CONTROL VIERNES 17": 5.4 }
+      "grades": {
+        "CONTROL VIERNES 17": 5.4,
+        "EXAMEN TEMA 1": 6.8
+      }
     },
     {
       "passwordHash": "b55bcb6e82e2a0926c9e19091ea35815698c080311c45dd90fc23229b24a61df",
       "name": "Rodríguez Azofra, David",
-      "grades": { "CONTROL VIERNES 17": 4.35 }
+      "grades": {
+        "CONTROL VIERNES 17": 4.35,
+        "EXAMEN TEMA 1": 3.7
+      }
     },
     {
       "passwordHash": "7d3a2f0ac36e95b7621670c6e66256b7b985da626f481804744ebef37620e71b",
       "name": "Romero Gómez, Álvaro",
-      "grades": { "CONTROL VIERNES 17": 5.85 }
+      "grades": {
+        "CONTROL VIERNES 17": 5.85,
+        "EXAMEN TEMA 1": 5.8
+      }
     }
   ]
 }
