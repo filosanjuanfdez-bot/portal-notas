@@ -3,37 +3,58 @@
     {
       "passwordHash": "29719c1a9b890a3ce8fe5b0450bab2c9386410733b0bcaee3fa7436c0d6581cf",
       "name": "Escalada Cimiano, Alba",
-      "grades": { "CONTROL VIERNES 17": 3.5 }
+      "grades": {
+        "CONTROL VIERNES 17": 3.5,
+        "EXAMEN TEMA 1": 6.6
+      }
     },
     {
       "passwordHash": "19670fdd7271f6b0c9b0f14ef97597de231f1d4bc19da0de35c9fd6b04c9441b",
       "name": "Herrera, Alma Maylen Melody",
-      "grades": { "CONTROL VIERNES 17": 2 }
+      "grades": {
+        "CONTROL VIERNES 17": 2,
+        "EXAMEN TEMA 1": 4.7
+      }
     },
     {
       "passwordHash": "679b9de413cd47393764eb1e25fd9d73e38022db863a547d1bc916760c933cce",
       "name": "Maté García, Álvaro",
-      "grades": { "CONTROL VIERNES 17": 3.95 }
+      "grades": {
+        "CONTROL VIERNES 17": 3.95,
+        "EXAMEN TEMA 1": 7.7
+      }
     },
     {
       "passwordHash": "93f47789befbb5354283e9a08b00ac53fc9720ce20cbd8109f49a9aadac680c8",
       "name": "Mora Kornausenko, Ángela",
-      "grades": { "CONTROL VIERNES 17": 5 }
+      "grades": {
+        "CONTROL VIERNES 17": 5,
+        "EXAMEN TEMA 1": 7.1
+      }
     },
     {
       "passwordHash": "fcabbc391c3d96f45d3cf7515039775526fabaea8ec8af778432b410d5afff06",
       "name": "Rodríguez Agudo, Hugo",
-      "grades": { "CONTROL VIERNES 17": 1.75 }
+      "grades": {
+        "CONTROL VIERNES 17": 1.75,
+        "EXAMEN TEMA 1": 6.7
+      }
     },
     {
       "passwordHash": "b41911a5a8c20fdd5a2db198be3fbedd7b04bfbc868a4cc4cdb0bf4bf240ae5d",
       "name": "Vicente López, Iván",
-      "grades": { "CONTROL VIERNES 17": 3.25 }
+      "grades": {
+        "CONTROL VIERNES 17": 3.25,
+        "EXAMEN TEMA 1": 3.3
+      }
     },
     {
       "passwordHash": "7516848c7759a0aa8e9ad88fecf798e4f55d80d515537423a5c8cbcbd26c7f59",
       "name": "Villegas García, Isabel Sofía",
-      "grades": { "CONTROL VIERNES 17": 3 }
+      "grades": {
+        "CONTROL VIERNES 17": 3,
+        "EXAMEN TEMA 1": 5.4
+      }
     }
   ]
 }
