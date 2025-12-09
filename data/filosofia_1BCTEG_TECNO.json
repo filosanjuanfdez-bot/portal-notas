@@ -1,20 +1,148 @@
 {
   "students": [
-    { "passwordHash": "b158aff16f2b31bf3497829402ce7209b5cbc7abbaed72646986b9b2e56d4a88", "name": "Alonso González, Fernando", "grades": { "CONTROL VIERNES 17": 3.5 } },
-    { "passwordHash": "8b48023a3a5444632d45ffba348ee9216df68b143c3093758b4426c5c6ea8d0b", "name": "Álvarez González, Martín", "grades": { "CONTROL VIERNES 17": 6.35 } },
-    { "passwordHash": "c12df78a799f8e4f2a1e930e47bccb115234d2e4c731f676629405b1d4fca0b2", "name": "Celada Pérez, Adriana", "grades": { "CONTROL VIERNES 17": 4.45 } },
-    { "passwordHash": "7c46e06c218cc38e2207514aa515ea9f9ca7f9761ac76fc16afc1401ce3df791", "name": "Cervera De la Maza, Adrián", "grades": { "CONTROL VIERNES 17": 2.5 } },
-    { "passwordHash": "a19947097e3f21374848d8cf42a79d6b7a7345eaf82b6a78798f447be142d237", "name": "de la Iglesia Salvador, Rodrigo", "grades": { "CONTROL VIERNES 17": 5.7 } },
-    { "passwordHash": "69127bc69164ceca2474a31425de1bf8d994aa9445656f4696d6d8c61ea4b2c8", "name": "García Ruiz, Hugo", "grades": { "CONTROL VIERNES 17": 1.5 } },
-    { "passwordHash": "e8994fead94dcdcab7740aab304439d7b005156b8fa48d13d1c037ea4d990bb4", "name": "Gómez Gollarza, Isabella Valentina", "grades": { "CONTROL VIERNES 17": 2.75 } },
-    { "passwordHash": "b33dc334138c927f30f5a478155a9c0e4b092086ef33c1136bb75ec8809d772b", "name": "Haro Fernández, Vera", "grades": { "CONTROL VIERNES 17": 5.8 } },
-    { "passwordHash": "ffe2e34a40e3b73856015c367e82da2ccddcfbfe8f89b02a2784ca110c8ebfcb", "name": "Hernández Martínez, Sandra", "grades": { "CONTROL VIERNES 17": 6.35 } },
-    { "passwordHash": "08d562d346e40ebc2120f0567aa019cf76cc8fafa448180d62e5aae890a272e5", "name": "Miguélez Salazar, Marta", "grades": { "CONTROL VIERNES 17": 9.4 } },
-    { "passwordHash": "2427cf2cac07e89ea530ff55214e1f638ea22d0c6544415dc3a7cf84e6c523bd", "name": "Raba Ramos, Candela", "grades": { "CONTROL VIERNES 17": 6.55 } },
-    { "passwordHash": "effa4da2206421d831883bc112e76d3864c80e75deacb40114f320245a7208e0", "name": "Rodríguez Hernández, Bruno", "grades": { "CONTROL VIERNES 17": 0 } },
-    { "passwordHash": "e57b212a084733f8daa8cb1f4657ddfa30bbf0c75d1ae8f98c9d372aac9791ae", "name": "Romero Cajigas, Mario", "grades": { "CONTROL VIERNES 17": 7.8 } },
-    { "passwordHash": "f7056f05691abcd2264aaf92d184c969d00ea88413b2a8a12d93ffd21de4473d", "name": "Roqueñi Hernández, Ismael", "grades": { "CONTROL VIERNES 17": 8.35 } },
-    { "passwordHash": "ca6f84eeb2dd61911fc342a91f57352363b48dc3f7bbaa0945c4d71e36f08d6d", "name": "Toribio Arce, Eduardo", "grades": { "CONTROL VIERNES 17": 5.35 } },
-    { "passwordHash": "71667b6b5bcdf06e997656e1495250b41ba698d1a70cc6e5f867981c61039af5", "name": "Tuya Folgueiras, Rubén", "grades": { "CONTROL VIERNES 17": 6.25 } }
+    {
+      "passwordHash": "b158aff16f2b31bf3497829402ce7209b5cbc7abbaed72646986b9b2e56d4a88",
+      "name": "Alonso González, Fernando",
+      "grades": {
+        "CONTROL VIERNES 17": 3.5,
+        "CONTROL LIBRO": 1.6,
+        "EXAMEN TEMA 1": 2.4
+      }
+    },
+    {
+      "passwordHash": "8b48023a3a5444632d45ffba348ee9216df68b143c3093758b4426c5c6ea8d0b",
+      "name": "Álvarez González, Martín",
+      "grades": {
+        "CONTROL VIERNES 17": 6.35,
+        "CONTROL LIBRO": 1.6,
+        "EXAMEN TEMA 1": 9.8
+      }
+    },
+    {
+      "passwordHash": "c12df78a799f8e4f2a1e930e47bccb115234d2e4c731f676629405b1d4fca0b2",
+      "name": "Celada Pérez, Adriana",
+      "grades": {
+        "CONTROL VIERNES 17": 4.45,
+        "CONTROL LIBRO": 3.7,
+        "EXAMEN TEMA 1": 0.5
+      }
+    },
+    {
+      "passwordHash": "7c46e06c218cc38e2207514aa515ea9f9ca7f9761ac76fc16afc1401ce3df791",
+      "name": "Cervera De la Maza, Adrián",
+      "grades": {
+        "CONTROL VIERNES 17": 2.5,
+        "CONTROL LIBRO": 3.0,
+        "EXAMEN TEMA 1": 3.7
+      }
+    },
+    {
+      "passwordHash": "a19947097e3f21374848d8cf42a79d6b7a7345eaf82b6a78798f447be142d237",
+      "name": "de la Iglesia Salvador, Rodrigo",
+      "grades": {
+        "CONTROL VIERNES 17": 5.7,
+        "CONTROL LIBRO": 5.1,
+        "EXAMEN TEMA 1": 4.9
+      }
+    },
+    {
+      "passwordHash": "69127bc69164ceca2474a31425de1bf8d994aa9445656f4696d6d8c61ea4b2c8",
+      "name": "García Ruiz, Hugo",
+      "grades": {
+        "CONTROL VIERNES 17": 1.5,
+        "CONTROL LIBRO": 4.0,
+        "EXAMEN TEMA 1": 3.5
+      }
+    },
+    {
+      "passwordHash": "e8994fead94dcdcab7740aab304439d7b005156b8fa48d13d1c037ea4d990bb4",
+      "name": "Gómez Gollarza, Isabella Valentina",
+      "grades": {
+        "CONTROL VIERNES 17": 2.75,
+        "CONTROL LIBRO": 3.0,
+        "EXAMEN TEMA 1": 1.8
+      }
+    },
+    {
+      "passwordHash": "b33dc334138c927f30f5a478155a9c0e4b092086ef33c1136bb75ec8809d772b",
+      "name": "Haro Fernández, Vera",
+      "grades": {
+        "CONTROL VIERNES 17": 5.8,
+        "CONTROL LIBRO": 2.0,
+        "EXAMEN TEMA 1": 7.0
+      }
+    },
+    {
+      "passwordHash": "ffe2e34a40e3b73856015c367e82da2ccddcfbfe8f89b02a2784ca110c8ebfcb",
+      "name": "Hernández Martínez, Sandra",
+      "grades": {
+        "CONTROL VIERNES 17": 6.35,
+        "CONTROL LIBRO": 4.3,
+        "EXAMEN TEMA 1": 4.0
+      }
+    },
+    {
+      "passwordHash": "08d562d346e40ebc2120f0567aa019cf76cc8fafa448180d62e5aae890a272e5",
+      "name": "Miguélez Salazar, Marta",
+      "grades": {
+        "CONTROL VIERNES 17": 9.4,
+        "CONTROL LIBRO": 5.7,
+        "EXAMEN TEMA 1": 9.7
+      }
+    },
+    {
+      "passwordHash": "2427cf2cac07e89ea530ff55214e1f638ea22d0c6544415dc3a7cf84e6c523bd",
+      "name": "Raba Ramos, Candela",
+      "grades": {
+        "CONTROL VIERNES 17": 6.55,
+        "CONTROL LIBRO": 6.7,
+        "EXAMEN TEMA 1": 5.35
+      }
+    },
+    {
+      "passwordHash": "effa4da2206421d831883bc112e76d3864c80e75deacb40114f320245a7208e0",
+      "name": "Rodríguez Hernández, Bruno",
+      "grades": {
+        "CONTROL VIERNES 17": 0,
+        "CONTROL LIBRO": 5.1,
+        "EXAMEN TEMA 1": 0.3
+      }
+    },
+    {
+      "passwordHash": "e57b212a084733f8daa8cb1f4657ddfa30bbf0c75d1ae8f98c9d372aac9791ae",
+      "name": "Romero Cajigas, Mario",
+      "grades": {
+        "CONTROL VIERNES 17": 7.8,
+        "CONTROL LIBRO": 6.7,
+        "EXAMEN TEMA 1": 5.6
+      }
+    },
+    {
+      "passwordHash": "f7056f05691abcd2264aaf92d184c969d00ea88413b2a8a12d93ffd21de4473d",
+      "name": "Roqueñi Hernández, Ismael",
+      "grades": {
+        "CONTROL VIERNES 17": 8.35,
+        "CONTROL LIBRO": 5.8,
+        "EXAMEN TEMA 1": 7.2
+      }
+    },
+    {
+      "passwordHash": "ca6f84eeb2dd61911fc342a91f57352363b48dc3f7bbaa0945c4d71e36f08d6d",
+      "name": "Toribio Arce, Eduardo",
+      "grades": {
+        "CONTROL VIERNES 17": 5.35,
+        "CONTROL LIBRO": 2.6,
+        "EXAMEN TEMA 1": 5.2
+      }
+    },
+    {
+      "passwordHash": "71667b6b5bcdf06e997656e1495250b41ba698d1a70cc6e5f867981c61039af5",
+      "name": "Tuya Folgueiras, Rubén",
+      "grades": {
+        "CONTROL VIERNES 17": 6.25,
+        "CONTROL LIBRO": 5.4,
+        "EXAMEN TEMA 1": 2.9
+      }
+    }
   ]
 }
