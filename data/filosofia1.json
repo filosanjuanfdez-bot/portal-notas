@@ -5,7 +5,8 @@
       "name": "Cobo Cayón, Mario",
       "grades": {
         "CONTROL VIERNES 17": 3.5,
-        "CONTROL LIBRO": 4.9
+        "CONTROL LIBRO": 4.9,
+        "EXAMEN TEMA 1": 6.9
       }
     },
     {
@@ -13,7 +14,8 @@
       "name": "Conde Borreguero, Bruno",
       "grades": {
         "CONTROL VIERNES 17": 4.9,
-        "CONTROL LIBRO": 7.2
+        "CONTROL LIBRO": 7.2,
+        "EXAMEN TEMA 1": 4.4
       }
     },
     {
@@ -21,7 +23,8 @@
       "name": "de la Fuente Viota, Sara",
       "grades": {
         "CONTROL VIERNES 17": 6.5,
-        "CONTROL LIBRO": 5.3
+        "CONTROL LIBRO": 5.3,
+        "EXAMEN TEMA 1": 8.3
       }
     },
     {
@@ -29,7 +32,8 @@
       "name": "de Pablo Ruiz, Marco",
       "grades": {
         "CONTROL VIERNES 17": 1.45,
-        "CONTROL LIBRO": 4.5
+        "CONTROL LIBRO": 4.5,
+        "EXAMEN TEMA 1": 2.6
       }
     },
     {
@@ -37,7 +41,8 @@
       "name": "Echevarría Fernández, Rodrigo",
       "grades": {
         "CONTROL VIERNES 17": 5.85,
-        "CONTROL LIBRO": 4.6
+        "CONTROL LIBRO": 4.6,
+        "EXAMEN TEMA 1": 6.2
       }
     },
     {
@@ -45,7 +50,8 @@
       "name": "Fernández Cabrero, Pelayo",
       "grades": {
         "CONTROL VIERNES 17": 5.35,
-        "CONTROL LIBRO": 4.1
+        "CONTROL LIBRO": 4.1,
+        "EXAMEN TEMA 1": 4.2
       }
     },
     {
@@ -53,7 +59,8 @@
       "name": "García González-Torre, Diego",
       "grades": {
         "CONTROL VIERNES 17": 6.65,
-        "CONTROL LIBRO": 6.5
+        "CONTROL LIBRO": 6.5,
+        "EXAMEN TEMA 1": 9.0
       }
     },
     {
@@ -61,7 +68,8 @@
       "name": "García Valle, Paula",
       "grades": {
         "CONTROL VIERNES 17": 6.35,
-        "CONTROL LIBRO": 2.3
+        "CONTROL LIBRO": 2.3,
+        "EXAMEN TEMA 1": 7.0
       }
     },
     {
@@ -69,7 +77,8 @@
       "name": "Herrera Fernández, Sara",
       "grades": {
         "CONTROL VIERNES 17": 3.5,
-        "CONTROL LIBRO": 6.0
+        "CONTROL LIBRO": 6.0,
+        "EXAMEN TEMA 1": 8.6
       }
     },
     {
@@ -77,7 +86,8 @@
       "name": "Herreros González, Nuria",
       "grades": {
         "CONTROL VIERNES 17": 3.35,
-        "CONTROL LIBRO": 4.0
+        "CONTROL LIBRO": 4.0,
+        "EXAMEN TEMA 1": 2.6
       }
     },
     {
@@ -85,7 +95,8 @@
       "name": "Higuera Lavín, Fernando",
       "grades": {
         "CONTROL VIERNES 17": 4.9,
-        "CONTROL LIBRO": 6.4
+        "CONTROL LIBRO": 6.4,
+        "EXAMEN TEMA 1": 3.7
       }
     },
     {
@@ -93,7 +104,8 @@
       "name": "Iglesias Silvosa, Daniela",
       "grades": {
         "CONTROL VIERNES 17": 7.9,
-        "CONTROL LIBRO": 4.8
+        "CONTROL LIBRO": 4.8,
+        "EXAMEN TEMA 1": 6.1
       }
     },
     {
@@ -101,14 +113,16 @@
       "name": "Jarkovska, Karolina",
       "grades": {
         "CONTROL VIERNES 17": 4.2,
-        "CONTROL LIBRO": 4.7
+        "CONTROL LIBRO": 4.7,
+        "EXAMEN TEMA 1": 5.2
       }
     },
     {
       "passwordHash": "f7d7c13b5bbb9d316bf58aa9c5870e700cb52db98d848dafd9ebd7a651a5b869",
       "name": "Mantecón Rábago, Jimena",
       "grades": {
-        "CONTROL VIERNES 17": 4.9
+        "CONTROL VIERNES 17": 4.9,
+        "EXAMEN TEMA 1": 3.1
       }
     },
     {
@@ -116,7 +130,8 @@
       "name": "Martín Seco, Bruno",
       "grades": {
         "CONTROL VIERNES 17": 3.85,
-        "CONTROL LIBRO": 5.0
+        "CONTROL LIBRO": 5.0,
+        "EXAMEN TEMA 1": 3.5
       }
     },
     {
@@ -124,7 +139,8 @@
       "name": "Pérez Pico, Miryan",
       "grades": {
         "CONTROL VIERNES 17": 8.25,
-        "CONTROL LIBRO": 6.2
+        "CONTROL LIBRO": 6.2,
+        "EXAMEN TEMA 1": 8.7
       }
     },
     {
@@ -132,14 +148,16 @@
       "name": "Puertas García, Daniel",
       "grades": {
         "CONTROL VIERNES 17": 3.25,
-        "CONTROL LIBRO": 3.3
+        "CONTROL LIBRO": 3.3,
+        "EXAMEN TEMA 1": 4.6
       }
     },
     {
       "passwordHash": "b02f2ff68af166f5f0b4c5d9b7b8fc498e593eddedfd811513f78f39dd00fc7f",
       "name": "Quintanilla Herrera, Mamerto",
       "grades": {
-        "CONTROL VIERNES 17": 8.65
+        "CONTROL VIERNES 17": 8.65,
+        "EXAMEN TEMA 1": 9.3
       }
     },
     {
@@ -147,7 +165,8 @@
       "name": "Ruiz García, Elena",
       "grades": {
         "CONTROL VIERNES 17": 8.65,
-        "CONTROL LIBRO": 8.1
+        "CONTROL LIBRO": 8.1,
+        "EXAMEN TEMA 1": 9.5
       }
     },
     {
@@ -155,7 +174,8 @@
       "name": "Sainz-Maza Norrán, Alejandro",
       "grades": {
         "CONTROL VIERNES 17": 6.4,
-        "CONTROL LIBRO": 8.6
+        "CONTROL LIBRO": 8.6,
+        "EXAMEN TEMA 1": 6.45
       }
     },
     {
@@ -163,7 +183,8 @@
       "name": "Sánchez Rubio, Daniela",
       "grades": {
         "CONTROL VIERNES 17": 1.4,
-        "CONTROL LIBRO": 5.0
+        "CONTROL LIBRO": 5.0,
+        "EXAMEN TEMA 1": 6.9
       }
     },
     {
@@ -171,7 +192,8 @@
       "name": "Solana Cagigas, Óscar Jin",
       "grades": {
         "CONTROL VIERNES 17": 6.25,
-        "CONTROL LIBRO": 8.8
+        "CONTROL LIBRO": 8.8,
+        "EXAMEN TEMA 1": 6.0
       }
     }
   ]
